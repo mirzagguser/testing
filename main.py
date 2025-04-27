@@ -205,7 +205,7 @@ if __name__ == "__main__":
             console.print("[bold yellow][bold white](50)[/bold white]: Copy livery To Another Car     [bold red]3K[/bold red][/bold yellow]")
             console.print("[bold yellow][bold white](51)[/bold white]: Copy Livery To Another Account [bold red]4K[/bold red][/bold yellow]")
             console.print("[bold yellow][bold white](52)[/bold white]: Clone Car To Another Account   [bold red]3K[/bold red][/bold yellow]")
-            console.print("[bold yellow][bold white](53)[/bold white]: Golden Glow Headlight          [bold red]2K[/bold red][/bold yellow]")
+            console.print("[bold yellow][bold white](53)[/bold white]: Golden Glow Headlight          [bold red]1K[/bold red][/bold yellow]")
             console.print("[bold yellow][bold white](0) [/bold white]: Exit From Tool [/bold yellow]")
             
             console.print("[bold red]===============[bold white][ ᴋᴀʏᴢᴇɴɴ ][/bold white]===============[/bold red]")
