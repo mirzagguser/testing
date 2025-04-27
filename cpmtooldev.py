@@ -7,9 +7,8 @@ import urllib.parse
 __ENDPOINT_URL__: str = "https://garden.squareweb.app/api"
 
 class CPMTooldev:
-    def __init__(self, access_key) -> None:
+    def __init__(self) -> None:
         self.auth_token = None
-        self.access_key = None
         self.telegram_id = None
         
     def login(self, email, password) -> int:
