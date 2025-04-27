@@ -9,7 +9,7 @@ __ENDPOINT_URL__: str = "https://garden.squareweb.app/api"
 class CPMTooldev:
     def __init__(self, access_key) -> None:
         self.auth_token = None
-        self.access_key = access_key
+        self.access_key = None
         self.telegram_id = None
         
     def login(self, email, password) -> int:
